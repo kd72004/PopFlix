@@ -1,6 +1,6 @@
 # PopFlix
 Discover the latest blockbuster hits and trending TV series at [https://developer.themoviedb.org/docs]. Explore a collection of popular movies and TV shows showcased as interactive cards. Click on any card to dive into detailed descriptions, ratings, and more. Stay informed about your favorite entertainment choices with our user-friendly interface.
-API_URL = 'https://api.themoviedb.org/3/'
+
 
 Movie and TV Show Info Website
 ![image](https://github.com/kd72004/PopFlix/assets/109151753/b1af4df3-98c0-41e4-80d8-ec06c8b623aa)
